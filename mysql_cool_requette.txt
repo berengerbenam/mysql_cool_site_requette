@@ -1,0 +1,1 @@
+https://programmingfields.com/create-mysql-user-and-grant-privileges-in-ubuntu-20-04/
